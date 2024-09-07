@@ -1,5 +1,5 @@
 ```markdown
-## Procurando Atletas? A gente te ajuda!
+## Procurando Atletas? A gente te ajuda! - Imersão Dev Alura e Google Gemini
 
 **O que essa aplicação faz?**
 
